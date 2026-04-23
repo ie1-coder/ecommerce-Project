@@ -127,8 +127,8 @@ This project is open-sourced under the [MIT License](LICENSE).
 <div align="center">
 
 ### 👤 Authors
-**Izzdden S. R. Alnouno**  
-**Mohammed N. Al-Mabhouh**  
+**Izzdden S. R. Alnouno - 120223138**  
+**Mohammed N. Al-Mabhouh - 120259578**  
 Cybersecurity Engineer | Full-Stack Developer  
 
 > *"Code with purpose. Secure by design."*
