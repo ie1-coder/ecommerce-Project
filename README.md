@@ -1,4 +1,4 @@
-```markdown
+markdown
 # ️ E-Commerce Project
 
 > Secure. Scalable. Elegant. A modern Laravel-powered e-commerce platform.
