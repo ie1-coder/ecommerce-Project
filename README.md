@@ -1,4 +1,3 @@
-markdown
 # ️ E-Commerce Project
 
 > Secure. Scalable. Elegant. A modern Laravel-powered e-commerce platform.
@@ -131,7 +130,6 @@ This project is open-sourced under the [MIT License](LICENSE).
 **Izzdden S. R. Alnouno**  
 **Mohammed N. Al-Mabhouh**  
 Cybersecurity Engineer | Full-Stack Developer  
-[GitHub](https://github.com/iel-coder) | [LinkedIn](#)
 
 > *"Code with purpose. Secure by design."*
 
